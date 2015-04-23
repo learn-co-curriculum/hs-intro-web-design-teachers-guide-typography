@@ -1,4 +1,5 @@
 ###SWABTS
+***Students will be able to recognize appropriate font size, style, and spacing to create a more readable site design***
 
 ### Motivation
 What is typography? Typography can simply be described as the art of type. It's everything you can think of – like fonts, sizes, and readability. This becomes obviously important for websites because you can't relay information or sell anyone anything if they can't read about it.
