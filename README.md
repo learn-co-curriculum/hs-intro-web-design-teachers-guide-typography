@@ -45,9 +45,9 @@ What is typography? Typography can simply be described as the art of type. It's 
   + Use Italics and Bold to point out areas of interest or draw quick reference to information.
   + Use color for emphasis. Remember, reds draw the most attention if used correctly. It is amazing what one spot of red can do for an ordinary ad.
 + Next time while reading your favorite blog or newspaper, observe the fonts, line heights (the distance between each line), line lengths (how many letters per line), and font weights (bold, normal, light). CSS3 gives you great control over fonts and text, so an understanding of the basic rules of typography will come in handy as you design and build websites.
-+ *Steve Jobs calligraphy story*
++ Steve Jobs calligraphy [story](http://www.hollywoodreporter.com/news/steve-jobs-death-apple-calligraphy-248900)
 
 ### Conclusion/So What?
-
+Fonts play a much bigger role in relaying information than you might think. 
 
 ### Hints and Hurdles
