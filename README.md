@@ -51,4 +51,4 @@ What is typography? Typography can simply be described as the art of type. It's 
 Fonts play a much bigger role in relaying information than you might think. 
 
 ### Hints and Hurdles
-<a href='https://learn.co/lessons/hs-intro-web-design-teachers-guide-typography' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-web-design-teachers-guide-typography' title='SWABTS'>SWABTS</a> on Learn.co and start learning to code for free.</p>
